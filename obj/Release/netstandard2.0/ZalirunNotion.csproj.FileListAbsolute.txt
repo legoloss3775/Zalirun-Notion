@@ -1,0 +1,10 @@
+D:\Projects\ZalirunNotion\ZalirunNotion\bin\Release\netstandard2.0\ZalirunNotion.deps.json
+D:\Projects\ZalirunNotion\ZalirunNotion\bin\Release\netstandard2.0\ZalirunNotion.dll
+D:\Projects\ZalirunNotion\ZalirunNotion\bin\Release\netstandard2.0\ZalirunNotion.pdb
+D:\Projects\ZalirunNotion\ZalirunNotion\obj\Release\netstandard2.0\ZalirunNotion.csproj.AssemblyReference.cache
+D:\Projects\ZalirunNotion\ZalirunNotion\obj\Release\netstandard2.0\ZalirunNotion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ZalirunNotion\ZalirunNotion\obj\Release\netstandard2.0\ZalirunNotion.AssemblyInfoInputs.cache
+D:\Projects\ZalirunNotion\ZalirunNotion\obj\Release\netstandard2.0\ZalirunNotion.AssemblyInfo.cs
+D:\Projects\ZalirunNotion\ZalirunNotion\obj\Release\netstandard2.0\ZalirunNotion.csproj.CoreCompileInputs.cache
+D:\Projects\ZalirunNotion\ZalirunNotion\obj\Release\netstandard2.0\ZalirunNotion.dll
+D:\Projects\ZalirunNotion\ZalirunNotion\obj\Release\netstandard2.0\ZalirunNotion.pdb

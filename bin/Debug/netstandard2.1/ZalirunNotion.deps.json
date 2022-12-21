@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "ZalirunNotion/1.0.0": {
+        "dependencies": {
+          "NLog": "5.1.0",
+          "Newtonsoft.Json": "13.0.2"
+        },
+        "runtime": {
+          "ZalirunNotion.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.2.27524"
+          }
+        }
+      },
+      "NLog/5.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.1.0.1480"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZalirunNotion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R2pZ3B0UjeyHShm9vG+Tu0EBb2lC8b0dFzV9gVn50ofHXh9Smjk6kTn7A/FdAsC8B5cKib1OnGYOXxRBz5XQDg==",
+      "path": "newtonsoft.json/13.0.2",
+      "hashPath": "newtonsoft.json.13.0.2.nupkg.sha512"
+    },
+    "NLog/5.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oW7ekrkRG9okpDMUcEglunWj8Qf2RY8qkgl+/chJoavzg3dbT13y32t19R54FKkmq80fKzw4ZekZkCrRGanKgQ==",
+      "path": "nlog/5.1.0",
+      "hashPath": "nlog.5.1.0.nupkg.sha512"
+    }
+  }
+}
